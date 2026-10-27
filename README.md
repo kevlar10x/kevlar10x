@@ -1,3 +1,5 @@
+- [gtp](https://github.com/kevlar10x/gtp): a Claude skill that grills your product from the user's side and fixes the gaps it finds.
 - [quiet-transcript](https://github.com/kevlar10x/quiet-transcript): a Claude Code mod that fades everything in the transcript except Claude's answers.
+- [recent-sessions](https://github.com/kevlar10x/recent-sessions): a Claude Code mod that adds a Recent panel to the Claude desktop app and sorts your Code sessions by when each one last finished.
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kevlar10x)
